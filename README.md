@@ -1,2 +1,2 @@
-# keplerjs-foursquare
+## keplerjs-foursquare
 keplerjs plugin for Foursquare API 
