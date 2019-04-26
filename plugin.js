@@ -2,7 +2,7 @@
 K.Plugin({
 	name: 'foursquare',
 	templates: {
-		panelPlace: 'panelPlace_foursquare'
+		//TODO panelPlace: 'panelPlace_foursquare'
 	},
 /*	settings: {
 		"foursquare": {
